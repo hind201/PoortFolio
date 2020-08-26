@@ -1,0 +1,2 @@
+*{margin:0;padding:0;box-sizing:border-box}body header{background-color:#000}body header nav{display:flex;justify-content:space-around;align-items:center}body header nav #menu{display:flex;justify-content:space-evenly;padding:5px;align-items:center;width:24vw}body header nav #menu li a{color:#fff;text-decoration:none;flex-direction:column}
+/*# sourceMappingURL=style.css.map */
